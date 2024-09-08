@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "GCC",
+      "includePath": ["${workspaceFolder}/**"],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "configurationProvider": "ms-vscode.makefile-tools",
+      "intelliSenseMode": "clang-x64",
+      "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe"
+    }
+  ],
+  "version": 4
+}
